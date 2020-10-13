@@ -1,0 +1,170 @@
+calculators onAllAboutCirciuts
+
+Search our database of electronics tools & calculators
+
+Twisted-Pair Impedance Calculator
+
+Trace Resistance Calculator
+
+Torque Conversion Calculator
+
+Tank Circuit Resonance Calculator
+
+T-Match Impedance Matching Circuits
+
+Stripline Trace Width Calculator
+
+Stepper Motor Calculator
+
+RF Power Conversion Calculator
+
+Power Density Calculator
+
+Capacitor Charge and Time Constant Calculator
+
+Ohm’s Law Calculator
+
+Resistor Color Code Calculator and Chart (4-band, 5-band or 6-band)
+
+Inverting Op-Amp Resistor Calculator
+
+Embedded Microstrip Impedance Calculator
+
+Op-Amp Voltage and Gain Calculator
+
+Capacitance, Reactance, and Admittance Calculator
+
+Microstrip Wavelength Calculator
+
+Waveguide Calculator (Circular)
+
+VSWR / Return Loss Calculator
+
+ T-Pad Attenuator Calculator
+
+Skin Depth Calculator
+
+RF Power Ratio Conversion Calculator
+
+Radar Maximum Range Calculator
+
+ Reflection Attenuator Calculator
+
+Power Added Efficiency Calculator
+
+Pi Attenuator Calculator
+
+N-Way Power Divider Calculator
+
+Waveguide Calculator (Rectangular)
+
+Noise Figure and Noise Temperature Calculator
+
+Microstrip Patch Antenna Calculator
+
+ Wavelength (TEM) Calculator
+
+Link Budget Calculator
+
+Stripline Crosstalk Calculator
+
+Microstrip Crosstalk Calculator
+
+Pi-Match Impedance Matching Calculator
+
+Inductance, Reactance, and Admittance Calculator
+
+Friis Transmission Calculator
+
+L-Match Impedance Matching Circuits
+
+Free Space Path Loss Calculator
+
+EIRP Calculator
+
+Noise Figure Calculator
+
+Temperature Converter
+
+Coax Impedance Calculator
+
+Broadside Coupled Stripline Impedance Calculator
+
+Edge Coupled Stripline Impedance Calculator
+
+Edge Coupled Microstrip Impedance Calculator
+
+Wire Stripline Impedance Calculator
+
+Wire Microstrip Impedance Calculator
+
+Asymmetric Stripline Impedance Calculator
+
+Symmetric Stripline Impedance Calculator
+
+ Microstrip Impedance Calculator
+
+Microstrip Max Current Calculator
+
+Stripline Max Current Calculator
+
+Microstrip Trace Width Calculator
+
+ Unit Conversion Calculator
+
+Peak Voltage Calculator
+
+Peak to Peak Voltage Calculator (VP-P)
+
+555 Timer Monostable Circuit Calculator
+
+LED Resistor Calculator
+
+Convert MCD to Lumens
+
+Voltage Divider Calculator
+
+555 Timer Astable Circuit
+
+RMS Voltage Calculator
+
+Edge Coupled Trace Inductance Calculator
+
+Broadside Coupled Trace Inductance Calculator
+
+Coil Inductance Calculator
+
+Resistance Calculator
+
+Microstrip Inductance Calculator
+
+Rectangle Loop Inductance Calculator
+
+Capacitance Calculator
+ 
+Capacitor Impedance Calculator
+
+Wire Loop Inductance Calculator
+
+Wire Over Plane Inductance Calculator
+
+Coax Inductance Calculator
+
+Bridged-Tee Attenuator Calculator
+
+Balanced Attenuator Calculator
+
+Parallel Wire Inductance Calculator
+
+Wire Self Inductance Calculator
+
+Antenna Downtilt and Coverage Calculator
+
+Bandpass Filter Calculator
+
+Flyback Switch Mode Regulator Calculator
+
+Non-Inverting Op-Amp Resistor Calculator
+
+Heat Sink Calculator
+Welcome Back
